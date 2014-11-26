@@ -7,6 +7,6 @@ Se utliza la libreria lpsolve generando un script con el modelo de solucion plan
 
 Desarrolladores: 
 julian Bravo
-Sergio Garci
+Sergio Garcia
 Juan Manuel Chaguendo
 Univalle 2014
